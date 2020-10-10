@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/nvidia/bin/autoStartRoverControl.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=roverControlAutostart.sh.desktop
+Name=Rover Control
+Comment[en_US]=to control rover
+Comment=to control rover

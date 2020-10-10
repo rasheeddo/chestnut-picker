@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/nvidia/bin/autoStartChestnutPicker.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=chestnutPickerAutostart.sh.desktop
+Name=ChestnutPicker
+Comment[en_US]=to pick chestnut
+Comment=to pick chestnut

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/nvidia/bin/autoStartChestnutDetection.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=chestnutDetectionAutostart.sh.desktop
+Name=ChestnutDetection
+Comment[en_US]=to detect chestnut
+Comment=to detect chestnut
